@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Christian Rohrig!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sempre em busca de aprender novas tecnologias e evoluir como desenvolvedor.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no Senac Rs, com foco em Front-end e Back-end. Sempre em busca de aprender novas tecnologias e evoluir como desenvolvedor.
 
 ## 🚀 Tecnologias e Conhecimentos
 
