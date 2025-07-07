@@ -20,7 +20,7 @@ Aqui você encontrará alguns dos meus projetos, com links para os repositórios
 ## 📫 Contato
 
 - ✉️ **Email:** christian1915@hotmail.com
-- 💼 [LinkedIn]([[https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/christian-rohrig-417b52319/)](https://www.linkedin.com/in/christian-rohrig-417b52319/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/christian-rohrig-417b52319/)](https://www.linkedin.com/in/christian-rohrig-417b52319/)
 
 ---
 
