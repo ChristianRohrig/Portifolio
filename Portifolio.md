@@ -14,13 +14,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sempre em bus
 
 Aqui você encontrará alguns dos meus projetos, com links para os repositórios:
 
-- [Projeto 1 - Site de adoçao de animais utilizando oauth]([https://github.com/seuusuario/projeto1](https://github.com/ChristianRohrig/Trabalho2Api.git))
+- [Projeto 1 - Site de adoçao de animais utilizando oauth](https://github.com/ChristianRohrig/Trabalho2Api.git)
 - [Projeto 2 - Código em Python capaz de detectar e contar o número de raios em um vídeo fornecido pelo usuário](https://github.com/seuusuario/projeto2)
 
 ## 📫 Contato
 
 - ✉️ **Email:** christian1915@hotmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/christian-rohrig-417b52319/)](https://www.linkedin.com/in/christian-rohrig-417b52319/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/christian-rohrig-417b52319/)
 
 ---
 
